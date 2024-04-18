@@ -111,18 +111,18 @@ export default class ImageTool {
         title: 'With border',
         toggle: true,
       },
-      {
+      /*{
         name: 'stretched',
         icon: IconStretch,
         title: 'Stretch image',
         toggle: true,
-      },
-      {
+      },*/
+      /*{
         name: 'withBackground',
         icon: IconAddBackground,
         title: 'With background',
         toggle: true,
-      },
+      },*/
     ];
   }
 
