@@ -117,12 +117,12 @@ export default class ImageTool {
         title: 'Stretch image',
         toggle: true,
       },*/
-      /*{
+      {
         name: 'withBackground',
         icon: IconAddBackground,
         title: 'With background',
         toggle: true,
-      },*/
+      },
     ];
   }
 
