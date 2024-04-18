@@ -9,7 +9,7 @@
   ],
   "description": "Image Tool for Editor.js",
   "license": "MIT",
-  "repository": "https://github.com/editor-js/image",
+  "repository": "https://github.com/brainone/image",
   "files": [
     "dist"
   ],
